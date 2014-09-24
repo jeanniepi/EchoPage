@@ -1,0 +1,58 @@
+body{
+	background-image: url("picjumbo.com_IMG_7829.jpg");
+	background-size: cover;
+	background-position: center;
+	
+
+
+
+
+}
+
+
+
+
+hr{
+	width: 400px;
+	margin-top: 30px;
+	height: 6px;
+	background-color: white;
+
+
+}
+
+
+
+h1{
+	width: 400px;
+	position: center;
+	margin-left: 230px;
+	padding-top: 30px;
+
+
+}
+
+div.transbox p {
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-size: 18px;
+	width: 350px;
+	line-height: 200%;
+	text-align: center;	
+	padding-left: 120px;
+
+
+}
+
+div.transbox {
+    width: 600px;
+    height: 450px;
+    margin-left: 200px;
+	margin-top: 150px;
+    background-color: black;
+    opacity: 0.4;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+    border-radius: 25px;
+    }
+
+
